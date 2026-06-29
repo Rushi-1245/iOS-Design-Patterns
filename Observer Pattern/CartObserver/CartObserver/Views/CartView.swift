@@ -2,7 +2,7 @@
 //  CartView.swift
 //  CartObserver
 //
-//  Created by Siddhatech on 29/06/26.
+//  Created by Rushi on 29/06/26.
 //
 
 import SwiftUI
