@@ -11,7 +11,7 @@ import SwiftUI
 struct PayFlowApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            PaymentView()
         }
     }
 }
